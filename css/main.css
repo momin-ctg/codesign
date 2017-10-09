@@ -349,6 +349,9 @@
     .cd-primary-nav > ul a {
         color: #454545;
     }
+    .cd-primary-nav > ul > li {
+       list-style: none;
+    }
 
     .usd a {
         color: #454545;
